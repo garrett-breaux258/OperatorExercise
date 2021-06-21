@@ -1,0 +1,12 @@
+/Users/Garrett/Desktop/repos/OperatorExercise/OperatorExercise/bin/Debug/netcoreapp3.1/OperatorExercise.deps.json
+/Users/Garrett/Desktop/repos/OperatorExercise/OperatorExercise/bin/Debug/netcoreapp3.1/OperatorExercise.runtimeconfig.json
+/Users/Garrett/Desktop/repos/OperatorExercise/OperatorExercise/bin/Debug/netcoreapp3.1/OperatorExercise.runtimeconfig.dev.json
+/Users/Garrett/Desktop/repos/OperatorExercise/OperatorExercise/bin/Debug/netcoreapp3.1/OperatorExercise.dll
+/Users/Garrett/Desktop/repos/OperatorExercise/OperatorExercise/bin/Debug/netcoreapp3.1/OperatorExercise.pdb
+/Users/Garrett/Desktop/repos/OperatorExercise/OperatorExercise/obj/Debug/netcoreapp3.1/OperatorExercise.csprojAssemblyReference.cache
+/Users/Garrett/Desktop/repos/OperatorExercise/OperatorExercise/obj/Debug/netcoreapp3.1/OperatorExercise.AssemblyInfoInputs.cache
+/Users/Garrett/Desktop/repos/OperatorExercise/OperatorExercise/obj/Debug/netcoreapp3.1/OperatorExercise.AssemblyInfo.cs
+/Users/Garrett/Desktop/repos/OperatorExercise/OperatorExercise/obj/Debug/netcoreapp3.1/OperatorExercise.csproj.CoreCompileInputs.cache
+/Users/Garrett/Desktop/repos/OperatorExercise/OperatorExercise/obj/Debug/netcoreapp3.1/OperatorExercise.dll
+/Users/Garrett/Desktop/repos/OperatorExercise/OperatorExercise/obj/Debug/netcoreapp3.1/OperatorExercise.pdb
+/Users/Garrett/Desktop/repos/OperatorExercise/OperatorExercise/obj/Debug/netcoreapp3.1/OperatorExercise.genruntimeconfig.cache
